@@ -8,3 +8,5 @@ São disponibilizados duas bases de dados:
 
 >`train.csv` - Características de entrada e valor da taxa, que corresponde a base de dados de treinamento (aproximadamente 55M de linhas).<br>
 >`test.csv` - Características de entrada para a base de dados de teste (aproximadamente 10K linhas). O seu objetivo é prever a taxa para cada linha.
+
+Para reduzir o tempo de processamento devido a grande quantidade de dados, foi optado trabalhar com 250k amostras da base de dados de treino disponibilizada para a competição.
