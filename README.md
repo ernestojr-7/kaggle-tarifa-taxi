@@ -10,3 +10,5 @@ São disponibilizados duas bases de dados:
 >`test.csv` - Características de entrada para a base de dados de teste (aproximadamente 10K linhas). O seu objetivo é prever a taxa para cada linha.
 
 Para reduzir o tempo de processamento devido a grande quantidade de dados, foi optado trabalhar com 250k amostras da base de dados de treino disponibilizada para a competição.
+
+#caso o nootbook não seja caregado pelo GitHub acesse o [link](https://nbviewer.org/github/ernestojr-7/kaggle_tarifa_taxi/blob/main/Previsao_Tarifa_de_Taxi_de_Nova_Iorque.ipynb)
